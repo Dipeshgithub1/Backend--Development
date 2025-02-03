@@ -1,4 +1,4 @@
-# QR Code Generator Service with Node.js and Express.js 
+## QR Code Generator Service with Node.js and Express.js 
 
 ![image](https://github.com/user-attachments/assets/50563c19-bd9c-451d-bf41-948d08b7303d)
 
