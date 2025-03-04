@@ -7,7 +7,7 @@
 - Quick Response (QR) codes have become an integral tool for transferring information quickly and conveniently.
 - This project aims to develop a QR code generation API service using Node.js and Express.js.
 
-  # How QR Codes Work - 
+  ## How QR Codes Work - 
 - Quick response codes (QR codes) are two-dimensional barcodes that can store much more information than traditional one-dimensional barcodes.
 - The following are the basics of how it works.
 - Data encoding: The given data (text, URL, contact information, etc.) will be converted into a sequence of bits (binary digits i.e. 0s and 1s).
@@ -25,5 +25,4 @@
 - npm init -y
 # Step 3: Install the required dependencies:
 - npm install express qrcode body-parser cors
-
-  - http://127.0.0.1:5500/client/index.html
+l
